@@ -44,7 +44,6 @@ export default function Home() {
         padding: 20,
       }}
     >
-      <div>SITO IN MANUTENZIONE</div>
       <h1>Image Drop AI</h1>
 
       <textarea
